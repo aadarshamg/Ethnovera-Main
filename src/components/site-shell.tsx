@@ -186,7 +186,7 @@ export function Footer() {
             </p>
             <address className="not-italic">
               Floor No.: 2nd Floor<br />
-              Building No./Flat No.: 212, BLDG NO 03<br />
+              Office No: 212, BLDG NO 03<br />
               Name Of Premises/Building: 86Central By Crystal Group<br />
               Road/Street: Ghatkopar Andheri Link Road<br />
               Locality/Sub Locality: Ghatkopar West<br />
