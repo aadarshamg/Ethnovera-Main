@@ -7,7 +7,7 @@ const sections = [
   },
   {
     title: "2. About Us",
-    body: "The Platform is owned and operated by ETHNOVERA GLOBAL PRIVATE LIMITED, a company registered in India, with its registered office at Floor No. 2nd Floor, Office No: 212, BLDG NO 03, 86Central By Crystal Group, Ghatkopar Andheri Link Road, Ghatkopar West, Mumbai, Mumbai Suburban, Maharashtra 400086."
+    body: "The Platform is owned and operated by ETHNOVERA GLOBAL PRIVATE LIMITED, a company registered in India, with its registered office at Office No: 810, BLDG NO 03, 86Central By Crystal Group, Ghatkopar Andheri Link Road, Ghatkopar West, Mumbai, Mumbai Suburban, Maharashtra 400086."
   },
   {
     title: "3. Eligibility",

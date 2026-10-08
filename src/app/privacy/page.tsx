@@ -43,7 +43,7 @@ const sections = [
   },
   {
     title: "11. Contact Us",
-    body: "For privacy-related questions or requests, please contact us at info@ethnoveraglobal.com or +91 73597 49940, or write to us at ETHNOVERA GLOBAL PRIVATE LIMITED, 2nd Floor, 212, BLDG NO 03, 86Central By Crystal Group, Ghatkopar Andheri Link Road, Ghatkopar West, Mumbai, Maharashtra 400086."
+    body: "For privacy-related questions or requests, please contact us at info@ethnoveraglobal.com or +91 73597 49940, or write to us at ETHNOVERA GLOBAL PRIVATE LIMITED, Office No. 810, BLDG NO 03, 86Central By Crystal Group, Ghatkopar Andheri Link Road, Ghatkopar West, Mumbai, Maharashtra 400086."
   }
 ];
 
